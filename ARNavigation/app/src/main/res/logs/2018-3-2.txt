@@ -1,0 +1,5 @@
+1.使用volley+fastJson进行http请求和数据解析操作
+2.使用GsonFormat进行javaBean的设置
+3.使用lombok插件简化构造方法
+4.使用仿微信弹窗插件进行弹出框的设置
+5.使用ZXing框架进行二维码的扫码取值

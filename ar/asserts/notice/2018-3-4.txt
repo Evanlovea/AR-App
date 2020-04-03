@@ -1,0 +1,2 @@
+1.使用natApp进行内网穿透，若使用，需要修改app中的网址，在Test2Activity.java之中
+2.

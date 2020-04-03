@@ -1,0 +1,9 @@
+1.Intent之对象传递（Serializable传递对象和对象集合）
+http://blog.csdn.net/yayun0516/article/details/46397811
+2.空指针异常解决方案
+http://blog.csdn.net/u012585964/article/details/51835363
+3.快速、高效解析Json数据之FastJson
+http://blog.csdn.net/z19980115/article/details/52005325
+4.android参考学习资料
+http://www.runoob.com/w3cnote/android-tutorial-intent-pass-data.html
+5.
